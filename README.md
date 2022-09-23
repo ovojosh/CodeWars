@@ -1,4 +1,13 @@
-# CodeWars
+# CodeWars Solutions
 
-This repo is for my CodeWars solutions.
-Trying to upload once a day.
+## 1. Go over the questions from Codewars
+<img src='img/CodewarsImg.jpg'>
+
+---
+
+## 2. Figure out the solution
+<img src='img/CodewarsSolution.jpg'>
+
+---
+## 3. Add to repo
+<img src='img/CodewarsRepo.jpg'>
